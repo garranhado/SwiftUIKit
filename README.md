@@ -1,7 +1,7 @@
 # SwiftUIKit
 Another UIKit layout system but based on SwiftUI declarative syntax sugar
 
-![Example](link-to-image)
+![Example](https://raw.githubusercontent.com/garranhado/SwiftUIKit/master/Screenshot.jpg)
 
 ## Motivation
 - SwiftUI requires iOS/iPadOS/tvOS 13.0
