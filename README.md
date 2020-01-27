@@ -8,8 +8,8 @@ Another UIKit layout system but based on SwiftUI declarative syntax sugar
 
 ## Notes:
 - Not a Framework / Library, **it's just an Example**
-- Unlike SwiftUI, this do not replace UIViewControllers, **it's just an UI builder**
-- You are free to use, change, share and make a next great UIKit Framework
+- Unlike SwiftUI, this does not replace UIViewControllers, **it's just an UI builder**
+- You are free to use, change, share and make the next great UIKit Framework
 
 ## Usage
 
