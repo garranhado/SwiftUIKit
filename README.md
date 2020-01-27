@@ -10,6 +10,7 @@ Another UIKit layout system but based on SwiftUI declarative syntax sugar
 - Not a Framework / Library, **it's just an Example**
 - Unlike SwiftUI, this does not replace UIViewControllers, **it's just an UI builder**
 - You are free to use, change, share and make the next great UIKit Framework
+- **Important:** Not a continuous project, just an experience
 
 ## Usage
 
